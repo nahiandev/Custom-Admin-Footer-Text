@@ -1,6 +1,6 @@
 # Custom Admin Footer Text
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square)
+![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-round)
 
 A lightweight WordPress plugin that replaces the default admin footer text ("Thank you for creating with WordPress") with your custom message. Perfect for agencies, freelancers, or anyone wanting to brand the WordPress admin area.
 
