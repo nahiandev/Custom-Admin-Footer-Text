@@ -46,8 +46,8 @@ add_filter('custom_admin_footer_text', function($text) {
     return 'Custom text from code';
 });
 
-## Hire the Developer
+# Hire the Developer
 
-###For custom WordPress solutions tailored to your business:
+##For custom WordPress solutions tailored to your business:
 
 - [LinkedIn Profile](https://www.linkedin.com/in/nahiandev/)
