@@ -1,7 +1,6 @@
 # Custom Admin Footer Text
 
 ![WordPress Plugin Version](https://img.shields.io/wordpress/plugin/v/custom-admin-footer-text?style=flat-square)
-![License](https://img.shields.io/badge/license-GPL--2.0%2B-red.svg?style=flat-square)
 
 A lightweight WordPress plugin that replaces the default admin footer text ("Thank you for creating with WordPress") with your custom message. Perfect for agencies, freelancers, or anyone wanting to brand the WordPress admin area.
 
@@ -33,10 +32,10 @@ Alternatively, upload the `custom-admin-footer` folder to `/wp-content/plugins/`
 ## Screenshots
 
 1. **Settings Page**  
-   ![Settings Page](https://i.imgur.com/JrqyYlE.png)
+   ![Settings Page](https://github.com/nahiandev/Custom-Admin-Footer-Text/blob/main/screenshots/Screenshot_1.png)
 
 2. **Admin Footer Example**  
-   ![Admin Footer in Action](https://i.imgur.com/L8W4ePp.png)
+   ![Admin Footer in Action](https://github.com/nahiandev/Custom-Admin-Footer-Text/blob/main/screenshots/Screenshot_2.png)
 
 ## Advanced Usage
 
@@ -46,3 +45,13 @@ Override the text programmatically:
 add_filter('custom_admin_footer_text', function($text) {
     return 'Custom text from code';
 });
+
+## Hire the Developer
+
+For custom WordPress solutions tailored to your business:
+
+- [LinkedIn Profile](https://www.linkedin.com/in/nahiandev/)
+
+
+---
+
