@@ -3,7 +3,7 @@
 Plugin Name: Custom Admin Footer Text
 Plugin URI: https://github.com/nahiandev/Custom-Admin-Footer-Text
 Description: Change the default WordPress admin footer text.
-Version: v1.0
+Version: v1.0.0
 Author: Ibne Nahian (@nahiandev)
 Author URI: https://github.com/nahiandev/
 License: MIT
