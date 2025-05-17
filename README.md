@@ -44,9 +44,10 @@ Override the text programmatically:
 ```php
 add_filter('custom_admin_footer_text', function($text) {
     return 'Custom text from code';
-});```
+});
+```
 
----
+<hr>
 ### Hire the Developer
 
 - [LinkedIn](https://www.linkedin.com/in/nahiandev/)
