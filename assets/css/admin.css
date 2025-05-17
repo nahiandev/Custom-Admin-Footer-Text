@@ -1,0 +1,8 @@
+/* Style the settings page */
+.wrap h1 {
+    margin-bottom: 20px;
+}
+
+.custom-admin-footer textarea.large-text {
+    min-height: 100px;
+}
